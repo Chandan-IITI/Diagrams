@@ -284,7 +284,7 @@
         <mxCell id="0ogH2CJ_ZUsddaYluMJw-92" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;$$\text{retain}(s_i) \sim \text{Bernoulli}(\mathcal{P}_{\text{retain}}(s_i))$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="514.27" width="322.55" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="0ogH2CJ_ZUsddaYluMJw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" target="0ogH2CJ_ZUsddaYluMJw-100">
+        <mxCell id="0ogH2CJ_ZUsddaYluMJw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.58;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0ogH2CJ_ZUsddaYluMJw-100">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625.3249999999998" y="443" as="sourcePoint" />
           </mxGeometry>
